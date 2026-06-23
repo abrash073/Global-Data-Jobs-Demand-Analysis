@@ -1,4 +1,3 @@
-<img width="1165" height="657" alt="image" src="https://github.com/user-attachments/assets/2d7cd886-f58f-4132-9861-6fbecb3987ff" /># Global Data Jobs Demand Analysis
 ![dashboard image no 1](https://github.com/abrash073/Global-Data-Jobs-Demand-Analysis/blob/main/Images/Screenshot%202026-06-23%20235556.png?raw=true)
 ![Dashboard image no 2](https://github.com/abrash073/Global-Data-Jobs-Demand-Analysis/blob/main/Images/Screenshot%202026-06-24%20000242.png?raw=true)
 
