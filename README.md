@@ -1,4 +1,5 @@
 # Global Data Jobs Demand Analysis
+![Dashboard Images](https://github.com/abrash073/Global-Data-Jobs-Demand-Analysis/blob/main/Screenshot%202026-06-23%20235556.png?raw=true)
 
 ## 📊 Project Overview
 
