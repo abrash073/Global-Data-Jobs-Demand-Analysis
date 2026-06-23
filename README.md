@@ -1,6 +1,5 @@
 # Global Data Jobs Demand Analysis
-![Dashboard Images](Images/Screenshot 2026-06-23 235556.png)](https://github.com/abrash073/Global-Data-Jobs-Demand-Analysis/blob/main/Images/Screenshot%202026-06-23%20235556.png?raw=true)
-![Image 2]([https://github.com/abrash073/Global-Data-Jobs-Demand-Analysis/blob/main/Screenshot%202026-06-24%20000242.png?raw=true](https://github.com/abrash073/Global-Data-Jobs-Demand-Analysis/blob/main/Images/Screenshot%202026-06-24%20000242.png?raw=true))
+![dashboard image no 1](https://github.com/abrash073/Global-Data-Jobs-Demand-Analysis/blob/main/Images/Screenshot%202026-06-23%20235556.png?raw=true)
 
 ## 📊 Project Overview
 
